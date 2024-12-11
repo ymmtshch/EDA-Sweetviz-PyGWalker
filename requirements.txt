@@ -1,0 +1,4 @@
+pandas==1.5.3
+pygwalker==0.1.4
+streamlit==1.25.0
+sweetviz==2.1.4
