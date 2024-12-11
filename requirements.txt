@@ -1,4 +1,4 @@
 pandas==1.5.3
-pygwalker==0.1.4
+pygwalker==0.4.9.14  # 最新の安定バージョンを使用
 streamlit==1.25.0
 sweetviz==2.1.4
